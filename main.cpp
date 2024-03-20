@@ -12,7 +12,7 @@ Project: Integrated Inventory Management System
 Description:
 An Integrated Inventory Management System for a factory
 that includes spare parts and their associated suppliers. 
-The system should leverage various data structures, including linked lists, stacks, queues, trees, 
+The system has various data structures, including linked lists, stacks, queues, trees, 
 to efficiently manage and organize inventory information.
 
 *Complexity* 
