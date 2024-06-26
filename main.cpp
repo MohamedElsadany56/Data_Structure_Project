@@ -2,7 +2,6 @@
 project team members 
 
 Abdullah Ismail
-Hussein Nashed
 Mohamed Emad
 Mohamed Goma
 
